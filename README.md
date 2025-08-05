@@ -214,7 +214,7 @@ This project is developed for educational and learning purposes only. It is inte
 
 ## 🤝 Support
 
-For technical support or questions, please contact on Linkedin:- https://www.linkedin.com/in/ravindra-kumar-suthar-882ravi/ 
+For technical support or questions, please contact on [LinkedIn](https://www.linkedin.com/in/ravindra-kumar-suthar-882ravi/)
 
 ---
 
