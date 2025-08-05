@@ -11,7 +11,7 @@
 > - Install Java, Node.js, and MySQL using official Windows installers.
 > - For MySQL, you can use MySQL Workbench or XAMPP for easy setup.
 
-A secure, centralized digital platform exclusively designed for Indian government crime investigation and intelligence agencies such as the Police, CBI, CID, and RAW, to streamline the reporting, sharing, and analysis of criminal data nationwide.
+A secure, centralized digital platform developed for educational and learning purposes. This project is intended for students who want to develop their skills in full-stack development, database management, and secure application design.
 
 ## 🏗️ Architecture
 
@@ -210,12 +210,12 @@ npm run build
 
 ## 📝 License
 
-This project is developed for Indian government agencies and is not open to the public.
+This project is developed for educational and learning purposes only. It is intended for students and developers who wish to enhance their skills. Not for production or commercial use.
 
 ## 🤝 Support
 
-For technical support or questions, please contact the development team.
+For technical support or questions, please contact on Linkedin:- https://www.linkedin.com/in/ravindra-kumar-suthar-882ravi/ 
 
 ---
 
-**Note**: This is a secure, government-grade system designed for law enforcement agencies. All access is restricted to authorized personnel only. 
+**Note**: This is an educational project. All features and modules are for learning and demonstration purposes only. 
