@@ -1,0 +1,37 @@
+{
+  "valid_users": [
+    {
+      "role": "Admin",
+      "username": "admin",
+      "password": "admin123",
+      "full_name": "System Administrator",
+      "expected_cards": 5
+    },
+    {
+      "role": "Officer",
+      "username": "officer1",
+      "password": "admin123",
+      "full_name": "Inspector Rajesh Kumar",
+      "expected_cards": 4
+    },
+    {
+      "role": "Analyst",
+      "username": "analyst1",
+      "password": "admin123",
+      "full_name": "Data Analyst Amit Patel",
+      "expected_cards": 5
+    }
+  ],
+  "invalid_users": [
+    {
+      "username": "admin",
+      "password": "wrongpassword",
+      "expected_error": "Login failed"
+    },
+    {
+      "username": "nonexistent_user",
+      "password": "admin123",
+      "expected_error": "Login failed"
+    }
+  ]
+}
