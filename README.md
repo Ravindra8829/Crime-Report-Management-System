@@ -20,7 +20,7 @@ A secure, centralized digital platform for Law Enforcement agencies to log crime
 
 ## 🏗️ Architecture
 
-- **Backend**: Java Spring Boot 3.2.5 with JPA / Hibernate & Spring Security
+- **Backend**: Java 25 Spring Boot 3.2.5 with JPA / Hibernate & Spring Security
 - **Frontend**: ReactJS 18 with Material-UI (MUI)
 - **Security**: JWT Authentication with Role-Based Access Control (RBAC) & CORS preflight handling
 - **Database**: Embedded H2 Database (MySQL Mode, zero configuration required) / Optional external MySQL 8.0 support

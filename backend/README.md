@@ -1,6 +1,6 @@
 # CRMS Backend (Spring Boot 3.2.5)
 
-This is the backend for the Crime Report Management System (CRMS), built with Java 17, Spring Boot 3.2.5, Spring Security (JWT), and Hibernate JPA.
+This is the backend for the Crime Report Management System (CRMS), built with Java 25, Spring Boot 3.2.5, Spring Security (JWT), and Hibernate JPA.
 
 ## Modules
 - Authentication & Authorization (`/api/auth`)

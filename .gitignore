@@ -33,6 +33,20 @@ build/
 frontend/dist/
 dist/
 
+# Test Automation Outputs & Cache
+.pytest_cache/
+report.html
+test-results/
+playwright-report/
+
+# Assistant & Session Artifacts / Temporary Plans
+implementation_plan.md
+walkthrough.md
+*implementation_plan*.md
+*walkthrough*.md
+*plan*.md
+*process*.md
+
 # Logs & Temporary Files
 *.log
 npm-debug.log*
