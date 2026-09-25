@@ -1,0 +1,19 @@
+{
+  "name": "crime-report-management-system",
+  "version": "1.0.0",
+  "description": "Crime Report Management System (CRMS)",
+  "main": "index.js",
+  "scripts": {
+    "start": "bash start.sh",
+    "backend": "cd backend && mvn spring-boot:run",
+    "frontend": "cd frontend && npm start"
+  },
+  "keywords": [
+    "crms",
+    "spring-boot",
+    "react",
+    "crime-report"
+  ],
+  "author": "",
+  "license": "ISC"
+}

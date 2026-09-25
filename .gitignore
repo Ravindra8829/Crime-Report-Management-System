@@ -1,0 +1,46 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.iml
+*.ipr
+*.iws
+
+# Maven & Java Build Outputs
+backend/target/
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.rar
+
+# Node.js & React Build Outputs
+frontend/node_modules/
+node_modules/
+frontend/build/
+build/
+frontend/dist/
+dist/
+
+# Logs & Temporary Files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local environment / Scratch files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
